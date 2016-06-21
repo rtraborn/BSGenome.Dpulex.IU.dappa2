@@ -1,16 +1,16 @@
-Package: BSgenome.Dpulex.IU.dappa2
+Package: BSgenome.Dpulex.IU.dappu3
 Title: Full genome sequence for Daphnia pulex PA42
-Description: Full draft genome sequence for Daphnia pulex PA42 assembly v2.0.
-Version: 2.0
+Description: Full draft genome sequence for Daphnia pulex PA42 assembly v3.0.
+Version: 3.0
 organism: Daphnia pulexPA42
 common_name: Water flea
 provider: IU
-provider_version: dappa2
-release_date: Aug. 2015
+provider_version: dappu3
+release_date: Feb. 2016
 release_name: Daphnia Genomics Consortium DpPA42
 source_url: NA
 organism_biocview: Daphnia_pulexPA42
 BSgenomeObjname: DpulexPA42
-seqfiles_suffix: .fasta
+seqfiles_suffix: .fsa
 seqs_srcdir: extdata/PA42_seqs
-seqnames: names(fasta.seqlengths("/DATA/GROUP/rtraborn/Daphnia_Project/Dp_data/PA42_scaffold2.0.fasta"))
+seqnames: names(fasta.seqlengths("/projects/rtraborn/Daphnia/annotation_files/PA42v3/Daphnia_pulex_PA42_v3.0.fasta"))

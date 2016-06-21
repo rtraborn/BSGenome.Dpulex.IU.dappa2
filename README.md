@@ -1,4 +1,4 @@
-Dpulex_BSGenome
+Dpulex_BSGenome: BSgenome.Dpulex.IU.dappu3
 ===============
 
 A Bioconductor/Biostrings Genome (BSGenome) package for the new PA42 assembly of Daphnia pulex

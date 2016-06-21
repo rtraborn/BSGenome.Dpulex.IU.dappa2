@@ -15,8 +15,10 @@ forgeBSgenomeDataPkg("path/to/DpPA42_seed")
 Once this is complete, exit R and enter the following commands on your Unix/Linux command line: 
 (this presumes this is in your working directory, otherwise enter the path to this folder and then the folder name)
 
-> R CMD INSTALL BSgenome.Dpulex.IU.dappu3
-(finally, this will install the package in your R library)
+```R
+ R CMD INSTALL BSgenome.Dpulex.IU.dappu3
+``` 
+(This will install the package in your R library)
 
 If you have any questions or encounter a problem with this package, please create an issue on his account or email me directory at rtraborn 'at' indiana 'dot' edu. This package will be updated as new versions of the assembly become available
 
